@@ -1,0 +1,36 @@
+body {
+  background-color:aquamarine;
+  font-size: 200%;
+}
+
+.checkerBox{
+  border:1px solid black;
+  height:200px;
+  width:200px;
+  background-color:grey;
+}
+
+.black {
+  background-color:black;
+  height:16px;
+  width:16px;
+  display:inline-block;
+}
+
+.white {
+  background-color:white;
+  height:16px;
+  width:16px;
+  display:inline-block;
+}
+
+form{
+  background:white;
+  padding:.5in;
+  margin:.25in;
+  border:1rem blue solid;
+}
+form label{
+  display:block;
+  padding:.1in;
+}

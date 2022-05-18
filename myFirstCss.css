@@ -1,0 +1,43 @@
+body{
+  background-color:aquamarine;
+  color:blueviolet;
+  margin:1in;
+}
+p{
+  text-decoration: underline;
+}
+
+.special{
+  background-color:green;
+}
+
+h1{
+  color:red;
+  background-color: yellow;
+}
+
+form{
+  background-color:white;
+  border:1rem solid green;
+  padding:.5in;
+  margin:.25in;
+  width:500px;
+}
+
+form h1{
+  background:none;
+}
+.form_header{
+  font-size:5px;
+}
+form label{
+  display:block;
+  margin:0.1in;
+}
+form label.required {
+  border:1px solid red;
+}
+
+form .required {
+  border-left:3px solid green;
+}
